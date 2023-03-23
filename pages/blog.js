@@ -1,4 +1,4 @@
 function Blog() {
-  return <h1>Blog page</h1>;
+  return <h1>Blog page - Public</h1>;
 }
 export default Blog;
